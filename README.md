@@ -1,4 +1,4 @@
-# CodSoft_Task1_Level2
+# CodSoft_Task2_Level1
 
 ### Sampuran Portfolio Website 
 
